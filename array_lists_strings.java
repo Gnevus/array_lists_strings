@@ -36,9 +36,9 @@ public class Solution {
         
         //заполняем списки
         for (int i = 1; i < 10; i++) {
-            list1.add("asfadd");
-            list2.add("akllkjvzxcv");
-            list3.add("alhj;;j;;ok;ojlhuh");
+            list1.add("Hello, ");
+            list2.add("world");
+            list3.add("!");
         }
         
         //заносим списки в главный массив списков
